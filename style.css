@@ -1,0 +1,14 @@
+td {
+  border-width: 0px;
+  background-color: black;
+  width: 30px;
+  height: 30px;
+}
+
+td.alive {
+  background-color: black;
+}
+
+td.dead {
+  background-color: white;
+}
